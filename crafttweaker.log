@@ -1,0 +1,816 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[210:crafttweaker]: Normal\Oredict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\ActuallyAdditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\AdvancedCombat.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\AE2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Avaritia.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\BaubleyHeartCanisters.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Bewitchment.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\BloodMagic.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Buildingg.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\coins.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\EnderIO.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\EnderStorage.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\EnviormentTech.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\ExNihiloCreatio.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\ExtendedCrafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\ExtraUtils2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Fixes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\IC2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\JEI.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Mekanica.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\MysticalAgriculture.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\ProjectE.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\QuantumFlux.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Removal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\RFTools.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\ScalingHealth.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\TConstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Tesla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Thermal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\TinyProgression.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Tooltip.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\TravelBackpack.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Normal\Vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[210:crafttweaker]: Normal\Oredict.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Oredict.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding Iron Plate to ore dictionary entry plateIron
+[INITIALIZATION][CLIENT][INFO] Removing Elder Wood from ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Removing Juniper Wood from ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Removing Dragons Blood Wood from ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Removing Cypress Wood from ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Adding Elder Wood to ore dictionary entry BewitchmentLogs
+[INITIALIZATION][CLIENT][INFO] Adding Juniper Wood to ore dictionary entry BewitchmentLogs
+[INITIALIZATION][CLIENT][INFO] Adding Dragons Blood Wood to ore dictionary entry BewitchmentLogs
+[INITIALIZATION][CLIENT][INFO] Adding Cypress Wood to ore dictionary entry BewitchmentLogs
+[INITIALIZATION][CLIENT][INFO] Adding Compressed Flint to ore dictionary entry Flintblock
+[INITIALIZATION][CLIENT][INFO] Removing Iron Plate from ore dictionary entry plateIron
+[INITIALIZATION][CLIENT][INFO] Removing Basic Control Circuit from ore dictionary entry circuitBasic
+[INITIALIZATION][CLIENT][INFO] Removing Advanced Control Circuit from ore dictionary entry circuitAdvanced
+[INITIALIZATION][CLIENT][INFO] Adding Oak Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Birch Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Sextuple Compressed Netherrack to ore dictionary entry compressed6xNetherrack
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Helmet to ore dictionary entry emeraldhelmet
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Helmet to ore dictionary entry emeraldhelmet
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Chestplate to ore dictionary entry emeraldchestplate
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Chestplate to ore dictionary entry emeraldchestplate
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Pants to ore dictionary entry emeraldLeggings
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Leggings to ore dictionary entry emeraldLeggings
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Boots to ore dictionary entry emeraldboots
+[INITIALIZATION][CLIENT][INFO] Adding Emerald Boots to ore dictionary entry emeraldboots
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Pickaxe to ore dictionary entry ObsidianPickaxe
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Pickaxe to ore dictionary entry ObsidianPickaxe
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Axe to ore dictionary entry ObsidianAxe
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Axe to ore dictionary entry ObsidianAxe
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Shovel to ore dictionary entry ObsidianShovel
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Shovel to ore dictionary entry ObsidianShovel
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Sword to ore dictionary entry ObsidianSword
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Sword to ore dictionary entry ObsidianSword
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Hoe to ore dictionary entry ObsidianHoe
+[INITIALIZATION][CLIENT][INFO] Adding Obsidian Hoe to ore dictionary entry ObsidianHoe
+[INITIALIZATION][CLIENT][INFO] Adding Rubber Wood to ore dictionary entry logWood
+[INITIALIZATION][CLIENT][INFO] Adding Ultimate Fluid Tank to ore dictionary entry MekTank3
+[INITIALIZATION][CLIENT][INFO] Adding Ultimate Fluid Tank to ore dictionary entry MekTank3
+[INITIALIZATION][CLIENT][INFO] Adding Ultimate Gas Tank to ore dictionary entry MekGasTank3
+[INITIALIZATION][CLIENT][INFO] Adding Ultimate Gas Tank to ore dictionary entry MekGasTank3
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Brown to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Fluix to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Green to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Red to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Black to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Cyan to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Purple to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Blue to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Pink to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Gray to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Light Gray to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Lime to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Yellow to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Light Blue to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Magenta to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - Orange to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding ME Glass Cable - White to ore dictionary entry MeGlassCable
+[INITIALIZATION][CLIENT][INFO] Adding Grass to ore dictionary entry Grasss
+[INITIALIZATION][CLIENT][INFO] Adding Tall Slimy Grass to ore dictionary entry Grasss
+[INITIALIZATION][CLIENT][INFO] Adding Tall Slimy Grass to ore dictionary entry Grasss
+[INITIALIZATION][CLIENT][INFO] Adding Tall Slimy Grass to ore dictionary entry Grasss
+[INITIALIZATION][CLIENT][INFO] Adding Double Tallgrass to ore dictionary entry Grasss
+[INITIALIZATION][CLIENT][INFO] Adding Hopper to ore dictionary entry hopper
+[INITIALIZATION][CLIENT][INFO] Adding Magma Block to ore dictionary entry blockMagma
+[INITIALIZATION][CLIENT][INFO] --- Oredict.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\ActuallyAdditions.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ActuallyAdditions.zs ---
+[INITIALIZATION][CLIENT][INFO] --- ActuallyAdditions.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\AdvancedCombat.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading AdvancedCombat.zs ---
+[INITIALIZATION][CLIENT][INFO] --- AdvancedCombat.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\AE2.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading AE2.zs ---
+[INITIALIZATION][CLIENT][INFO] --- AE2.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Avaritia.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Avaritia.zs ---
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Diamond Lattice
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Cosmic Meatballs
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Catalyst
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Infinity Ingot
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Emerald Singularity
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Skullfire Sword to 100
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Cosmic Meatballs
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <avaritia:endest_pearl>: "WARNING WILL CREATE A BLACKHOLE THAT WILL DESTROY A LARGE AREA WHEN THROWN"
+[INITIALIZATION][CLIENT][INFO] Removing Extreme Recipe from Avaritia with the output of: Endest Pearl
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Endest Pearl
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Infinity Ingot
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Ultimate Stew
+[INITIALIZATION][CLIENT][INFO] --- Avaritia.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\BaubleyHeartCanisters.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading BaubleyHeartCanisters.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Blue Heart
+[INITIALIZATION][CLIENT][INFO] --- BaubleyHeartCanisters.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Bewitchment.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Bewitchment.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Bewitchment.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\BloodMagic.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading BloodMagic.zs ---
+[INITIALIZATION][CLIENT][INFO] --- BloodMagic.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Botania.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Botania.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Botania.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Buildingg.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Buildingg.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Unbreakable Wand
+[INITIALIZATION][CLIENT][INFO] --- Buildingg.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\coins.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading coins.zs ---
+[INITIALIZATION][CLIENT][INFO] --- coins.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\EnderIO.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading EnderIO.zs ---
+[INITIALIZATION][CLIENT][INFO] --- EnderIO.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\EnderStorage.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading EnderStorage.zs ---
+[INITIALIZATION][CLIENT][INFO] --- EnderStorage.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\EnviormentTech.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading EnviormentTech.zs ---
+[INITIALIZATION][CLIENT][INFO] --- EnviormentTech.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\ExNihiloCreatio.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\ExtendedCrafting.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ExtendedCrafting.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Supremium Chestplate
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Auto Sifter
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Auto Sieve
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Auto Heavy Sieve
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for ME Controller
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Ender Tank
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Ender Chest
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Advanced Machine Casing
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Generator
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for The Everlasting Guilty Pool
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Modifier
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Blessed Stone
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Mana Tablet
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for The Ultimate Ingot
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Infinity Catalyst
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Builders Wand
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Mill
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative ME Storage Cell
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dragon Helmet
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dragon Chestplate
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dragon Leggings
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dragon Boots
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Philosopher's Stone
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Energy Condenser
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Tome of Knowledge
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Dark Matter
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Imaginary Time Block
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Quibit Cluster
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Gas Tank
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Energy Source
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Emerald Singularity
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Spawner
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Activation Crystal
+[INITIALIZATION][CLIENT][INFO] Adding a Table Crafting recipe for Creative Sacrificial Dagger
+[INITIALIZATION][CLIENT][INFO] --- ExtendedCrafting.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\ExtraUtils2.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ExtraUtils2.zs ---
+[INITIALIZATION][CLIENT][INFO] --- ExtraUtils2.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Fixes.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Fixes.zs ---
+[INITIALIZATION][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone>
+[INITIALIZATION][CLIENT][INFO] --- Fixes.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\IC2.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading IC2.zs ---
+[INITIALIZATION][CLIENT][INFO] --- IC2.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\JEI.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading JEI.zs ---
+[INITIALIZATION][CLIENT][INFO] --- JEI.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Mekanica.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Mekanica.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Mekanica.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\MysticalAgriculture.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading MysticalAgriculture.zs ---
+[INITIALIZATION][CLIENT][INFO] --- MysticalAgriculture.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\ProjectE.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ProjectE.zs ---
+[INITIALIZATION][CLIENT][INFO] --- ProjectE.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\QuantumFlux.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Removal.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Removeal.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Removeal.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\RFTools.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading RFTools.zs ---
+[INITIALIZATION][CLIENT][INFO] --- RFTools.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\ScalingHealth.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ScalingHealth.zs ---
+[INITIALIZATION][CLIENT][INFO] --- ScalingHealth.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\TConstruct.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading TConstruct.zs ---
+[INITIALIZATION][CLIENT][INFO] --- TConstruct.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Tesla.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Thermal.zs}
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Redstone Furnace (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Pulverizer (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Sawmill (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Induction Smelter (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Phytogenic Insolator (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Compactor (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Magma Crucible (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Fractionating Still (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Fluid Transposer (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Energetic Infuser (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Centrifugal Separator (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Sequential Fabricator (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Alchemical Imbuer (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Arcane Ensorcellator (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Glacial Precipitator (Basic)
+[INITIALIZATION][CLIENT][INFO] Adding a Combination Crafting recipe for Igneous Extruder (Basic)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\TinyProgression.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading TinyProgression.zs ---
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wub Hammer to 1000
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wub Pickaxe to 1000
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wub Sword to 800
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wub Axe to 800
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wub Paxel to 1200
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wub Shovel to 1000
+[INITIALIZATION][CLIENT][INFO] --- TinyProgression.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Tooltip.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Tooltip.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:bagofholding>: "WARNING! Deletes items when switching gamemodes"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ftbquests:lootcrate>.withTag({type: "supra_crate"}): "What hides inside?"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ftbquests:lootcrate>.withTag({type: "lost_crate"}): "Lost for decades what gems hides inside?"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ftbquests:lootcrate>.withTag({type: "jackpot"}): "Money printer goes brrrrr"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:diamond_sword>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:diamond_shovel>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:diamond_pickaxe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:diamond_axe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:iron_shovel>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:iron_pickaxe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:iron_axe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:iron_sword>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:iron_hoe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:stone_sword>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:stone_axe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <minecraft:stone_pickaxe>: "Used for crafting only!!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <extrautils2:teleporter:1>: "Disbled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ftbquests:lootcrate>.withTag({type: "auction_house"}): "Lets see what bids you won"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mysticalagradditions:neutronium_seeds>: "Only obtainable in crates"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mysticalagradditions:dragon_egg_seeds>: "Only obtainable in crates"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ftbquests:lootcrate>.withTag({type: "the_fat_man_nuke"}): "Watch out this is a explosive one"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <projectex:final_star>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ic2:jetpack:27>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <ic2:jetpack:26>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanism:armoredjetpack>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanism:jetpack>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <projecte:item.pe_swrg>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <projecte:item.pe_gem_density>: "Disabled"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <mekanism:cardboardbox>: "DO NOT USE ON IC2 OR INDUSTRIAL FOREGOING"
+[INITIALIZATION][CLIENT][INFO] Clearing tooltip for <tp:wither_rib>
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <tp:wither_rib>: "Wither Rib"
+[INITIALIZATION][CLIENT][INFO] --- Tooltip.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\TravelBackpack.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading TravelPack.zs ---
+[INITIALIZATION][CLIENT][INFO] --- TravelBackpack.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Normal\Vanilla.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Vanilla.zs ---
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Stone Pickaxe to 3
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Stone Axe to 3
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron Shovel to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron Axe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron Pickaxe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron Hoe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond Shovel to 10
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond Axe to 10
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond Pickaxe to 10
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond Hoe to 1000
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Golden Axe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Golden Shovel to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Golden Hoe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Golden Pickaxe to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Golden Sword to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron Sword to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond Sword to 1
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Stone Sword to 10
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Black Quartz Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Obsidian Pickaxe to 3000
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Certus Quartz Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Nether Quartz Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Platinum Pickaxe to 400
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Copper Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Tin Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Silver Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Lead Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Aluminum Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Nickel Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Steel Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Electrum Pickaxe to 40
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Invar Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Bronze Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Constantan Pickaxe to 80
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Emerald Pickaxe to 180
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Emerald Axe to 180
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Emerald Shovel to 180
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Emerald Sword to 180
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Emerald Hoe to 180
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Emerald AIOT to 2000
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Diamond AIOT to 1400
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Iron AIOT to 400
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Stone AIOT to 250
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Wooden AIOT to 50
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Magma Helmet to 350
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Magma Chestplate to 600
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Magma Leggings to 550
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Magma Boots to 350
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Obsidian AIOT to 28000
+[INITIALIZATION][CLIENT][INFO] --- Vanilla.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 788ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Printed Silicon
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Printed Logic Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Printed Engineering Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Removing Inscriber Entry for Printed Calculation Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Adding Inscriber Entry for Printed Silicon
+[POSTINITIALIZATION][CLIENT][INFO] Adding Inscriber Entry for Printed Logic Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Adding Inscriber Entry for Printed Engineering Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Adding Inscriber Entry for Printed Calculation Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Casing with name ct_shaped-49775993
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Atomic Reconstructor with name ct_shaped290221463
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Generator with name ct_shaped1407254547
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Farmer with name ct_shaped-797891897
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Nether Star Sword with name ct_shaped1097437775
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sharpness Upgrade with name ct_shaped-541895508
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Sharpness Upgrade with name ct_shaped-611102998
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Smite Upgrade with name ct_shaped-39697562
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Smite Upgrade with name ct_shaped-2047648724
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bane of Arthropods Upgrade with name ct_shaped102389855
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Bane of Arthropods Upgrade with name ct_shaped-962994772
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Knockback Upgrade with name ct_shaped-1635582068
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Knockback Upgrade with name ct_shaped1948170510
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Aspect Upgrade with name ct_shaped-483746760
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Fire Aspect Upgrade with name ct_shaped-492037310
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Looting Upgrade with name ct_shaped1603166182
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Looting Upgrade with name ct_shaped393898440
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Unbreaking Upgrade with name ct_shaped1707694372
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Unbreaking Upgrade with name ct_shaped-1251287476
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mending Upgrade with name ct_shaped589374894
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Protection Upgrade with name ct_shaped499012575
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Protection Upgrade with name ct_shaped1667284588
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Protection Upgrade with name ct_shaped-1466430962
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Fire Protection Upgrade with name ct_shaped1937634724
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blast Protection Upgrade with name ct_shaped1181595033
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Blast Protection Upgrade with name ct_shaped8312268
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Projectile Protection Upgrade with name ct_shaped92461239
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Projectile Protection Upgrade with name ct_shaped1940942062
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Feather Falling Upgrade with name ct_shaped1087026109
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Feather Falling Upgrade with name ct_shaped1523066902
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Respiration Upgrade with name ct_shaped1278727493
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aqua Affinity Upgrade with name ct_shaped426043741
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Thorns Upgrade with name ct_shaped-1833979103
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Thorns Upgrade with name ct_shaped369919896
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Depth Strider Upgrade with name ct_shaped275396853
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Frost Walker Upgrade with name ct_shaped77572842
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Frost Walker Upgrade with name ct_shaped-2119674644
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Efficiency Upgrade with name ct_shaped-1041289882
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Efficiency Upgrade with name ct_shaped299942772
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silk Touch Upgrade with name ct_shaped2119797981
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fortune Upgrade with name ct_shaped1235676900
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Fortune Upgrade with name ct_shaped338444586
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Upgrade with name ct_shaped-60477219
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Power Upgrade with name ct_shaped563699746
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Punch Upgrade with name ct_shaped372521087
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Punch Upgrade with name ct_shaped1675897320
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flame Upgrade with name ct_shaped829476718
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infinity Upgrade with name ct_shaped557435033
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Luck of the Sea Upgrade with name ct_shaped1406483006
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Luck of the Sea Upgrade with name ct_shaped-169915752
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lure Upgrade with name ct_shaped507180380
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Lure Upgrade with name ct_shaped-929602676
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Charger with name ct_shaped-479884410
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crystal Growth Accelerator with name ct_shaped-991704064
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber with name ct_shaped510969757
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Acceptor with name ct_shaped79388632
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Interface with name ct_shaped-1704093029
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Molecular Assembler with name ct_shaped-1368401952
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Lattice with name ct_shaped-438303524
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Witches' Oven with name ct_shaped469096501
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Witches' Cauldron with name ct_shaped-775192045
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Witches' Altar with name ct_shaped-1210203368
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nether Brick Witches' Altar with name ct_shapeless-457251186
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Obsidian Witches' Altar with name ct_shapeless-1945222981
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Coquina Witches' Altar with name ct_shapeless907891913
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Embittered Brick Witches' Altar with name ct_shapeless2059641142
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Scorned Brick Witches' Altar with name ct_shapeless853916012
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hellfire Forge with name ct_shaped500641881
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blood Altar with name ct_shaped1716530717
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rudimentary Snare with name ct_shaped-345172016
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Petal Apothecary with name ct_shaped180108978
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-2010547143
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped2036622258
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-902670781
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped1105495715
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-2008467310
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-1758589582
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-1508711854
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-1258834126
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flügel Tiara with name ct_shaped-441126643
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Exchanging Gadget with name ct_shaped1692055457
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copy-Paste Gadget with name ct_shaped648234499
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Building Gadget with name ct_shaped-1791429300
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Destruction Gadget with name ct_shaped-626041
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Paste Container with name ct_shaped-1079889814
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 9 Coin with name ct_shaped-1187244237
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 81 Coin with name ct_shaped-424357286
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 45 Coin with name ct_shaped2038756485
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 729 Coin with name ct_shaped-508685816
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 6,561 Coin with name ct_shaped-1446279641
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 59,049 Coin with name ct_shaped155826774
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 405 Coin with name ct_shaped-1846479108
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Θ 3,645 Coin with name ct_shaped712463716
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Simple Machine Chassis with name ct_shaped45013086
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Capacitor with name ct_shaped738117758
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Double-Layer Capacitor with name ct_shaped-1106557124
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Octadic Capacitor with name ct_shaped1749941902
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Pouch with name ct_shaped325326965
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Photovoltaic Cell with name ct_shaped1019580116
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for String Mesh with name ct_shaped-96181370
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flint Stiffened Mesh with name ct_shaped1212517718
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Stiffened Mesh with name ct_shaped1056770806
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Stiffened Mesh with name ct_shaped-2117242132
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Hammer with name ct_shaped-1740075316
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Hammer with name ct_shaped1117527830
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Hammer with name ct_shaped2075175079
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Hammer with name ct_shaped1313231909
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Compressor with name ct_shaped1563571612
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Auto Hammer with name ct_shaped-1197028294
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Unstable Ingot with name ct_shaped1800784867
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mechanical Miner with name ct_shaped2086506788
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchanter with name ct_shaped2019229339
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bag Of Holding with name ct_shaped2129749430
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Paxel with name ct_shaped434186561
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Obsidian AIOT with name ct_shapeless-1563741098
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Clay with name ct_shapeless-644214082
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Ingot with name ct_shapeless-638033017
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Ingot with name ct_shapeless-2077379279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Ingot with name ct_shapeless-1265825325
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Ingot with name ct_shapeless1708605109
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Ingot with name ct_shapeless-572376462
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silver Ingot with name ct_shapeless1589050756
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tin Ingot with name ct_shapeless-322451858
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Ingot with name ct_shapeless-638033016
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Osmium Ingot with name ct_shapeless-779776013
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Ingot with name ct_shapeless-1542944403
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Stone Seeds with name ct_shaped-711745921
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dirt Seeds with name ct_shaped-1701811743
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nature Seeds with name ct_shaped-1777775743
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wood Seeds with name ct_shaped-1822344185
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Water Seeds with name ct_shaped-1613434511
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ice Seeds with name ct_shaped-359363067
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Zombie Seeds with name ct_shaped-270052992
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fire Seeds with name ct_shaped795787567
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dye Seeds with name ct_shaped1896578537
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Seeds with name ct_shaped1151702737
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Seeds with name ct_shaped-196697008
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pig Seeds with name ct_shaped581608967
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chicken Seeds with name ct_shaped-1222556370
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cow Seeds with name ct_shaped683041540
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sheep Seeds with name ct_shaped-1502170860
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Slime Seeds with name ct_shaped403436993
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rubber Seeds with name ct_shaped1984483369
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silicon Seeds with name ct_shaped-2001685560
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sulfur Seeds with name ct_shaped1842663154
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminum Seeds with name ct_shaped593306041
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Seeds with name ct_shaped-882752558
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminum Brass Seeds with name ct_shaped342999275
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Grains of Infinity Seeds with name ct_shaped1425415138
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mystical Flower Seeds with name ct_shaped1914256993
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Marble Seeds with name ct_shaped164219382
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Limestone Seeds with name ct_shaped-1462220055
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basalt Seeds with name ct_shaped-1648888882
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Seeds with name ct_shaped1384543136
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Quartz Seeds with name ct_shaped704827066
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Glowstone Seeds with name ct_shaped81523024
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Seeds with name ct_shaped-609669108
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Seeds with name ct_shaped-90353293
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Skeleton Seeds with name ct_shaped-1820729115
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Creeper Seeds with name ct_shaped2062956550
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Spider Seeds with name ct_shaped78007549
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rabbit Seeds with name ct_shaped-1958599310
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Guardian Seeds with name ct_shaped953022249
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Saltpeter Seeds with name ct_shaped76692942
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tin Seeds with name ct_shaped-2078309199
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bronze Seeds with name ct_shaped-381825230
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Seeds with name ct_shaped-1445616219
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lead Seeds with name ct_shaped-996140812
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blizz Seeds with name ct_shaped752290231
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blitz Seeds with name ct_shaped147904701
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basalz Seeds with name ct_shaped122447027
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Knightslime Seeds with name ct_shaped1229420275
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ardite Seeds with name ct_shaped-383378945
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Electrical Steel Seeds with name ct_shaped-1976874196
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Alloy Seeds with name ct_shaped-1893307368
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Conductive Iron Seeds with name ct_shaped-393744789
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Manasteel Seeds with name ct_shaped-483000260
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Quartz Seeds with name ct_shaped104598643
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sky Stone Seeds with name ct_shaped1328630559
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Certus Quartz Seeds with name ct_shaped-900232688
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Seeds with name ct_shaped568578786
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lapis Lazuli Seeds with name ct_shaped-487222871
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for End Seeds with name ct_shaped852495325
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Experience Seeds with name ct_shaped-1741446036
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blaze Seeds with name ct_shaped-1175680444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ghast Seeds with name ct_shaped-180061757
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enderman Seeds with name ct_shaped-1485679148
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Seeds with name ct_shaped807966925
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nickel Seeds with name ct_shaped-1301054132
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Constantan Seeds with name ct_shaped2101211475
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Electrum Seeds with name ct_shaped1882085917
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Invar Seeds with name ct_shaped-1332019804
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mithril Seeds with name ct_shaped-1792676345
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Signalum Seeds with name ct_shaped1722562754
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lumium Seeds with name ct_shaped768177471
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluxed Electrum Seeds with name ct_shaped2079853044
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobalt Seeds with name ct_shaped31862133
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Soularium Seeds with name ct_shaped2130157407
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dark Steel Seeds with name ct_shaped778435332
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulsating Iron Seeds with name ct_shaped717521734
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energetic Alloy Seeds with name ct_shaped772268328
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elementium Seeds with name ct_shaped1657308103
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Osmium Seeds with name ct_shaped-684715750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Glowstone Ingot Seeds with name ct_shaped2120306946
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Alumite Seeds with name ct_shaped-1020814279
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Fluix Seeds with name ct_shaped215704544
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Diamond Seeds with name ct_shaped390011573
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Emerald Seeds with name ct_shaped-1713274683
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Emerald Seeds with name ct_shaped-1713274682
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wither Skeleton Seeds with name ct_shaped-1858515142
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Uranium Seeds with name ct_shaped-632456296
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Platinum Seeds with name ct_shaped-881578867
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iridium Seeds with name ct_shaped-338171042
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enderium Seeds with name ct_shaped-750639462
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Manyullyn Seeds with name ct_shaped-214369620
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Vibrant Alloy Seeds with name ct_shaped700859441
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for End Steel Seeds with name ct_shaped577137288
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Terrasteel Seeds with name ct_shaped1176965660
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Uranium 238 Seeds with name ct_shaped1977023728
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iridium Ore Seeds with name ct_shaped954358657
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Refined Obsidian Seeds with name ct_shaped585701988
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nether Star Seeds with name ct_shaped1083687732
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fluxed Electrum Seeds with name ct_shapeless482430907
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Machine Casing with name ct_shaped-1042903949
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Item Casing with name ct_shaped-987570587
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Plate with name ct_shapeless1465902272
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Forge Hammer with name ct_shaped-105505370
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Forge Hammer with name ct_shaped-244249560
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energium Dust with name ct_shaped-110654243
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Metallurgic Infuser with name ct_shaped86503301
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Tablet with name ct_shaped1981769788
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reactor Frame with name ct_shaped-1399243284
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Dust with name ct_shaped702632997
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Base Essence Ingot with name ct_shaped-339280539
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inferium Seeds with name ct_shaped-347482356
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Insanium Chestplate with name ct_shaped-1356474771
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Band with name ct_shaped-212049858
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Matter with name ct_shaped-341196780
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Collector MK1 with name ct_shaped-1321936867
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Klein Star Ein with name ct_shaped1675316282
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Alchemical Chest with name ct_shaped71771826
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Transmutation Table with name ct_shaped-515383472
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gem Boots with name ct_shaped-1705303548
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Crystal with name ct_shaped496703704
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Quibit Crystal with name ct_shaped1830783078
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Amplification Crystal with name ct_shaped-2134188055
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gold Casing with name ct_shaped1454282343
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Core (Low) with name ct_shaped2071127207
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Core (Medium) with name ct_shaped-1201253656
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Core (High) with name ct_shaped2024574981
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powercell (Low) with name ct_shaped-392356188
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powercell (Medium) with name ct_shaped-1322686046
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powercell (High) with name ct_shaped606738716
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Heart Container with name ct_shaped1964695996
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Heart Crystal Shard with name ct_shaped-389817117
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Heart Dust with name ct_shapeless-168223239
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped471915356
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1564050902
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Blank Pattern with name ct_shapeless-405209405
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped976206554
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1130842529
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1415486552
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1751579849
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped51896817
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped2074051095
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped337930574
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped982942567
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1638569799
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1373673324
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped4741214
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped577854264
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped286496114
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1895960543
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1992975658
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1003049735
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1160556986
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1307882454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-334379148
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-679016572
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped2104964555
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1273968452
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped669654995
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-46160029
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1338750788
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1903022362
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1653079293
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-493674250
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1762576121
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1732019939
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1925441008
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1817154025
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1377166373
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1895565927
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped536117760
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1269940297
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1672562974
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1358534821
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1414030928
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-1006716991
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-526569659
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-833671490
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped1618558146
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped401720644
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Tool Forge with name ct_shaped-15375881
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-878340942
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-827706855
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped985230064
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped435070883
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-2052390969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped626971925
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1575149118
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped105358021
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1092126081
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped551254752
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped886982650
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped671723616
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1127607910
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-73238963
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1312998090
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-851690383
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1382360606
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-700115666
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1394502620
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped667792532
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1761485395
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped375999376
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1615754535
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1599774647
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1921850580
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1879409626
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped2058483113
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1537033238
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1326495525
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-7637355
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped947452424
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped2100296673
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1056270701
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1626569057
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1119220248
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1212026305
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1631852534
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-96929465
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-555414756
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped169376759
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-805443929
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-1228160562
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped842207766
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped1958003284
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Armor Forge with name ct_shaped-992023167
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Traveller's Knapsack with name ct_shaped-478171480
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Case with name ct_shaped661968856
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Frame with name ct_shaped-352827702
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Hardened Upgrade Kit with name ct_shaped1634569258
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reinforced Upgrade Kit with name ct_shaped1769907052
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Signalum Upgrade Kit with name ct_shaped-1443249178
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Resonant Upgrade Kit with name ct_shaped640030262
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Big Pouch with name ct_shaped-1522242436
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rib of the Wither with name ct_shaped530919444
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cobblestone Generator with name ct_shaped-1655062526
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Septuple Compressed Netherrack with name ct_shaped-2047753920
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Helmet with name ct_shaped264143591
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Chestplate with name ct_shaped910378479
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Leggings with name ct_shaped1652451242
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Obsidian Boots with name ct_shaped52185
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Helmet with name ct_shaped1165443220
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Chestplate with name ct_shaped1946405545
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Leggings with name ct_shaped-597421144
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Boots with name ct_shaped-289610060
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Backpack Tank with name ct_shaped630962237
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sleeping bag with name ct_shaped-275899618
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Traveler's Backpack with name ct_shaped1015678278
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Survival Generator with name ct_shaped-1536560180
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Wood Planks with name Planks
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Spruce Wood Planks with name Planks1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Birch Wood Planks with name Planks2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Jungle Wood Planks with name Planks3
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Acacia Wood Planks with name Planks4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dark Oak Wood Planks with name Planks5
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cypress Planks with name Planks6
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Elder Planks with name Planks7
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Juniper Planks with name Planks8
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dragons Blood Planks with name Planks9
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Jungle Wood Planks with name Plank10
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for End Crystal with name ct_shaped-539322778
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Weighted Pressure Plate (Heavy) with name ct_shaped-860347425
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <tp:cooked_apple>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <tp:cooked_apple>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Mekanism Metallurgic Infuser Recipe(s) for <mekanism:enrichedalloy>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Metallurgic Infuser Recipe(s) for <mekanism:enrichedalloy>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Enrichment Chamber Recipe(s) for <quantumflux:graphitedust>
+[POSTINITIALIZATION][CLIENT][INFO] Overwritten Mekanism Enrichment Chamber Recipe for <quantumflux:graphitedust>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:manaresource:2>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:manaresource:2>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:manaresource>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:manaresource>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:manaresource:1>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:manaresource:1>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:storage>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:storage>
+[AVAILABLE][CLIENT][INFO] Attempting to remove mana infusion recipe for [<botania:storage:3>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania Mana Infusion Recipe(s) for <botania:storage:3>
+[AVAILABLE][CLIENT][INFO] Attempting to remove Pure Daisy recipe for [<botania:livingwood>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania PureDaisy Recipe(s) for <botania:livingwood>
+[AVAILABLE][CLIENT][INFO] Attempting to remove Pure Daisy recipe for [<botania:livingrock>]
+[AVAILABLE][CLIENT][INFO] Removing 1 Botania PureDaisy Recipe(s) for <botania:livingrock>
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <extrautils2:ingredients:4>
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <advancedcombat:advanced_stone>
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <bhc:canister>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <bhc:relic_apple>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <bhc:red_heart_canister>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <bhc:yellow_heart_canister>
+[AVAILABLE][CLIENT][INFO] Adding TartaricForge recipe for: 1xitem.green_heart_canister@0 from: [1xitem.yellow_heart_canister@0,1xitem.green_heart@0,2xitem.shulkerShell@0,blockNetherStar] minSouls: 10.0, soulDrain: 30.0
+[AVAILABLE][CLIENT][INFO] Adding TartaricForge recipe for: 1xitem.blue_heart_canister@0 from: [1xitem.green_heart_canister@0,1xitem.blue_heart@0,2xitem.ec.material@48,1xitem.totem@0] minSouls: 10.0, soulDrain: 50.0
+[AVAILABLE][CLIENT][INFO] Adding TartaricForge recipe for: 1xitem.heart_amulet@0 from: [1xitem.superCloudPendant@0,1xitem.yellow_heart_canister@0,1xitem.green_heart_canister@0,1xitem.blue_heart_canister@0] minSouls: 30.0, soulDrain: 80.0
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:manaresource:2>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:manaresource>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:storage>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Mana Infusion Recipe(s) for <botania:manaresource:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <botania:livingrock>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania PureDaisy Recipe(s) for <botania:livingwood>
+[AVAILABLE][CLIENT][INFO] Adding Blood Altar recipe for: 1xtile.block_vacuum_chest@0 from: net.minecraft.item.crafting.Ingredient@5db8f7c7 minTier: 0, syphon: 2000, consumeRate: 300, drainRate: 150
+[AVAILABLE][CLIENT][INFO] Adding AlchemyTable recipe for: 1xtile.environmentaltech.structure_frame_6@0 from: [netherStar,netherStar,1xitem.environmentaltech.aethium_crystal@0,1xitem.environmentaltech.aethium_crystal@0,1xtile.ma.special@0,1xtile.environmentaltech.structure_frame_5@0] syphon: 6000, ticks: 100, minTier: 0
+[AVAILABLE][CLIENT][INFO] Adding AlchemyArray Recipe input=1xitem.Ingot@3, catalyst=1xitem.redstonearsenal.material@0, output=1xitem.ec.material@7, location=null
+[AVAILABLE][CLIENT][INFO] Altering Resonator Recipe(s) for <extrautils2:ingredients:4>
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 144
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 288
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 5184
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 2592
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 2592
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 1440000
+[AVAILABLE][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:redstone> * 576
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:16>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:17>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:18>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:19>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:20>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagriculture:crafting:21>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <mysticalagradditions:insanium:1>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <projecte:item.pe_covalence_dust> * 30
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:construction_alloy> * 144
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <thermalfoundation:material:27>
+[AVAILABLE][CLIENT][INFO] Adding 1 Botania Rune Altar Recipe(s) for <thermalfoundation:material:25>
+[AVAILABLE][CLIENT][INFO] Altering RedstoneFurnace Recipe(s) for <tp:cooked_apple>
+[AVAILABLE][CLIENT][INFO] Adding 1 Empowerer Recipe(s) for <minecraft:golden_apple:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:grassgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:fungusgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:obsidiangenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:icegenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:quartzgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:redstonegenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ultimatecobblegen:glowstonegenerator>
